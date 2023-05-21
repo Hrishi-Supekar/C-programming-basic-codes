@@ -1,6 +1,7 @@
 //7.Write a C program to calculate profit or loss.
 
 #include<stdio.h>
+#include<stdlib.h>
 int main()
 {
 	int sp,cp,p;
