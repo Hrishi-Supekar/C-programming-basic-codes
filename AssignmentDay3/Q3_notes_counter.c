@@ -167,14 +167,13 @@ int main()
         note1 = amount;
     }
     printf("Total number of notes = \n");
-    printf("500 = %d\n", note500);
-    printf("100 = %d\n", note100);
-    printf("50 = %d\n", note50);
-    printf("20 = %d\n", note20);
-    printf("10 = %d\n", note10);
-    printf("5 = %d\n", note5);
-    printf("2 = %d\n", note2);
-    printf("1 = %d\n", note1);
+    printf("500rs note = %d\n", note500);
+    printf("100rs note = %d\n", note100);
+    printf("50rs note = %d\n", note50);
+    printf("20rs note = %d\n", note20);
+    printf("10rs note = %d\n", note10);
+    printf("5rs coin = %d\n", note5);
+    printf("2rs coin = %d\n", note2);
+    printf("1rs coin = %d\n", note1);
     return 0;
 }
-
