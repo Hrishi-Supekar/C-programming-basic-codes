@@ -13,15 +13,15 @@ int main()
 	
 	if(num1>num2 && num1>num3)
 	{
-		printf("The %d number is maximum",num1);
+		printf("Number %d is maximum",num1);
 	}
 	else if(num2>num1 && num2>num3)
 	{
-		printf("The %d number is maximum",num2);
+		printf("Number %d is maximum",num2);
 	}
 	else
 	{
-		printf("The %d number is maximum",num3);
+		printf("Number %d is maximum",num3);
 	}
 	return 0;
 }
