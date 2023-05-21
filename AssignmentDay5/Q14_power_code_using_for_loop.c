@@ -3,18 +3,17 @@
 //#include<stdio.h>
 //void main()
 //{
-//	int i,base,expo,re;
+//	int i,base,expo;
 //	printf("Enter the base value:");
 //	scanf("%d",&base);
 //	printf("Enter the exponent value:");
 //	scanf("%d",&expo);
 //	int r=base;	
-//	for(i=0;i<expo-1;i++)
+//	for(i=1;i<expo;i++)
 //	{
-//		re = r*base;
-//		r=re;
+//		r = r*base;
 //	}
-//	printf("%d",re);
+//	printf("%d",r);
 //}
 
 #include<stdio.h>
