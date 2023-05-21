@@ -11,7 +11,7 @@ int main()
 	{
 		printf("The number is %d",num);
 	}
-	else if(num>=0)
+	else if(num>0)
 	{
 		printf("The number %d is +ve number",num);
 	}
