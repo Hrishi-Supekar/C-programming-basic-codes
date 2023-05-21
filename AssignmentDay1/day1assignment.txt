@@ -1,0 +1,13 @@
+Basic Programs exercises
+
+1. Write a program to print Hello World on output screen.
+2. WAP to calculate Simple interest.
+3. WAP to find out perimeter and area of the Square and Rectangle.
+4. WAP to convert Fahrenheit temp in degree Celsius.
+5. WAP to demonstrate arithmetic operation on two integer numbers.
+6. Write a program which will accept three integer numbers from user and find out greatest among them using conditional operator.
+7. Accept two numbers and perform swapping with third variable, and without third variable
+8. WAP to accept five subject marks and find out total and average of the marks.
+9. WAP which calculate speed for time and distance.
+Speed=(distance/time)
+10.WAP to find area & circumference of circle

@@ -1,0 +1,21 @@
+1)Write a C program to perform Addition of two numbers (Using Function without return type without parameter values.).
+2)Write a C program to perform conversion from Kilometer to meter  (Using Function without return type without parameter values.).
+3)Write a C program to perform conversion from Fahrenheit to Celsius  (Using Function without return type without parameter values.).
+celsius = ((fahrenheit-32)*5)/9
+4)Write a C program to find Cube of given number  (Using Function without return type without parameter values.).
+5)Write a C program to find Area of circle (Using Function without return type without parameter values.).
+6)Write a C program to find Area of rectangle (Using Function without return type without parameter values.).
+7)Write a C program to find Circumference of circle (Using Function without return type without parameter values.).
+8)Write a C program to find Perimeter of rectangle (Using Function without return type without parameter values.).
+9)Write a C program to find Sum of 1 to n (Using Function without return type without parameter values.).
+10)Write a C program to find Sum of all odd numbers between 1 to n (Using Function without return type without parameter values.).
+11)Write a C program to find Sum of all even numbers between 1 to n (Using Function without return type without parameter values.).
+12)Write a C program to find Sum of digits of given number (Using Function without return type without parameter values.).
+13)Write a C program to find reverse of given number (Using Function without return type without parameter values.).
+14)Write a C program to find Factorial of given number (Using Function without return type without parameter values.).
+15)Write a C program to accept base and exponent. Find Power of given number (Using Function without return type without parameter values.).
+16)Write a C program to perform Calculator operation (Using Function without return type without parameter values.).
+
+
+
+

@@ -1,0 +1,26 @@
+1)	Write a C program for sorting element in array in ascending array.
+2)	Write a C program to copy all elements from an array to another array.
+3)	Write a C program to search element in array.
+4)	Write a C program to find sum of all elements of an array.
+5)	Write a C program for sorting element in array in descending array.
+6)	Write a C program to accept and display character array.
+7)	Write a C program to find length of  character array using built-in string function.
+8)	Write a C program to find length of character array without using built-in string function.
+9)	Write a C program to perform Addition of two numbers (Function with return type without parameter values).
+10)	Write a C program to perform conversion from Kilometer to meter (Function with return type without parameter values).
+11)	Write a C program to perform conversion from Fahrenheit to Celsius  (Function with return type without parameter values).
+celsius = ((fahrenheit-32)*5)/9
+12)	Write a C program to find Cube of given number (Function with return type without parameter values).
+13)	Write a C program to find Area of circle(Function with return type without parameter values).
+14)	Write a C program to find Area of rectangle(Function with return type without parameter values).
+15)	Write a C program to find Circumference of circle (Function with return type without parameter values).
+16)	Write a C program to find Perimeter of rectangle(Function with return type without parameter values).
+17)	Write a C program to find Sum of 1 to n (Function with return type without parameter values).
+18)	Write a C program to find Sum of all odd numbers between 1 to n (Function with return type without parameter values).
+19)	Write a C program to find Sum of all even numbers between 1 to n (Function with return type without parameter values).
+20)	Write a C program to find Sum of digits of given number (Function with return type without parameter values).
+21)	Write a C program to find reverse of given number(Function with return type without parameter values).
+22)	Write a C program to find Factorial of given number (Function with return type without parameter values).
+23)	Write a C program to accept base and exponent. Find Power of given number (Function with return type without parameter values).
+24)	Write a C program to perform Calculator operation (Function with return type without parameter values).
+

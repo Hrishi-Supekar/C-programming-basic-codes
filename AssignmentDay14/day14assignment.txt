@@ -1,0 +1,29 @@
+1)Write a C program to accept and display Elements from user in matrix.
+2)Write a C program to Display sum of diagonal elements.
+3)Write a C program to Display sum of  non diagonal elements.
+4)Write a C program to Find out Transpose of Matrix.
+5)Write a C program to Find Sum of two matrices.
+6)Write a C program to Find Multiplication of two matrices.
+7)Write a C program to create employee structure, store data and display data in employee structure.
+8)Write a C program to demonstrate the concept of array of structure.
+9)Write a C program to find length of string without using built-in string function.
+10)Write a C program to reverse the String without using built-in string function.
+11)Write a C program to convert the string to Uppercase using built-in string function.
+12)Write a C program to convert the string to Uppercase without using built-in string function.
+13)Write a C program to convert the string to lowercase using built-in string function.
+14)Write a C program to convert the string to Lowercase without using built-in string function.
+15)Write a C program to compare two strings using built-in string function.
+16)Write a C program to compare two strings without using built-in string function.
+17)Write a C program to concatenate two Strings using built-in string function.
+18)Write a C program to concatenate two Strings without using built-in string function.
+19)Write a C program to copy String into another String using built-in string function.
+20)Write a C program to copy String into another String without using built-in string function.
+21)Write a C program for sorting element in array in ascending array.
+22)Write a C program to copy all elements from an array to another array.
+23)Write a C program to search element in array.
+24)Write a C program to find sum of all elements of an array.
+25)Write a C program for sorting element in array in descending array.
+
+
+
+
