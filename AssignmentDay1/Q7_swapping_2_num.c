@@ -11,6 +11,7 @@ int main()
 	a = a+b;
 	b = a-b;
 	a = a-b;
+	printf("\n");
 	printf("The 1st number after swap:%d\n",a);
 	printf("The 2nd number after swap:%d\n",b);
 	return 0;
