@@ -2,8 +2,7 @@
 #include<stdio.h>
 void main()
 {
-	int n;
-	int i =1;
+	int n,i =1;
 	printf("Enter the number:");
 	scanf("%d",&n);
 	printf("The all natural number are till %d:\n",n);
