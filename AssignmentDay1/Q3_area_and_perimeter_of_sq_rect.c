@@ -1,11 +1,10 @@
 //WAP to find out perimeter and area of the Square and Rectangle.
-//p of sq = 4a
-//a of sq = a2
-//p of rec = 2(l+w)
-//a of rec = wl
+//p of sq = 4*a
+//a of sq = a^2
+//p of rec = 2*(l+w)
+//a of rec = w*l
 
 #include<stdio.h>
-#include<math.h>
 int main()
 {
 	int side,l,b;
