@@ -4,7 +4,7 @@
 void main()
 {
 	int i=97;
-	printf("Alphabet from A - Z:\n");
+	printf("Alphabet from a - z:\n");
 	while(i<=122)
 	{
 		printf("%c ",i);
