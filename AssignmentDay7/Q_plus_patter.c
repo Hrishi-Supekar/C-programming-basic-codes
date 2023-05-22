@@ -12,21 +12,21 @@
 #include <stdio.h>
 int main()
 {
-    int i, j, N;
+    int i, j, n;
     printf("Enter N: ");
-    scanf("%d", &N);
-    for(i=1; i<=(N * 2 - 1); i++)
+    scanf("%d", &n);
+    for(i=1; i<=(n * 2 - 1); i++)
     {
-        if(i == N)
+        if(i == n)
         {
-            for(j=1; j<=(N * 2 - 1); j++)
+            for(j=1; j<=(n * 2 - 1); j++)
             {
                printf("+ ");
             }
         }
         else
         {
-            for(j=1; j<=N-1; j++)
+            for(j=1; j<=n-1; j++)
             {
                 printf("  ");
             }
@@ -34,7 +34,6 @@ int main()
         }
         printf("\n");
     }
-
     return 0;
 }
 
