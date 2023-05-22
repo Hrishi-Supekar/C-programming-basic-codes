@@ -14,7 +14,7 @@ void reverse_of_num()
 	printf("Enter the number:");
 	scanf("%d",&n);
 	
-	for(i=0;n>0;i++)
+	while(n>0)
 	{
 		r=n%10;
 		temp=(temp*10)+r;
