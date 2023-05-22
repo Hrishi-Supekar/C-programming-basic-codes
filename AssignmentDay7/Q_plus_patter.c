@@ -1,13 +1,13 @@
 //Q)C program to print the plus star pattern series
-//		  +
-//		  +
-//		  +
-// 		  +
-//+ + + + + + + + +
-//		  +
-//		  +
-//		  +
-//		  +
+//		      +
+//		      +
+//		      +
+// 		      +
+//+  +  +  +  +  +  +  +  +
+//		      +
+//		      +
+//		      +
+//		      +
 
 #include <stdio.h>
 int main()
