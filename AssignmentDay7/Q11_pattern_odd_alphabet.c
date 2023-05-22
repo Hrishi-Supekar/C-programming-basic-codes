@@ -1,13 +1,13 @@
 //11)Write a C program to print following pattern
 //A
-//C	E
-//G	I K
-//M	O Q	S
+//C E
+//G I K
+//M O Q	S
 
 #include<stdio.h>
 int main()
 {
-	int x=65,i,j,n,sum=1;
+	int x=65,i,j,n;
 	printf("Enter the number:");
 	scanf("%d",&n);
 	
