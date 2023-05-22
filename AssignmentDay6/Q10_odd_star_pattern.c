@@ -21,6 +21,7 @@ int main()
 		printf("\n");
 		x=x+2;
 	}
+	return 0;
 }
 
 //10)Write a C program to print following pattern
