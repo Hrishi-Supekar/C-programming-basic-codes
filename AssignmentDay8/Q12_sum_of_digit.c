@@ -14,7 +14,7 @@ void sum_of_digit()
 	printf("Enter the number:");
 	scanf("%d",&n);
 	
-	for(i=0;n>0;i++)
+	while(n>0)
 	{
 		r=n%10;
 		sum=sum+r;
